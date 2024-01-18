@@ -9,11 +9,13 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>I'm Ezikiel Manese. I'm a fellow student who enjoys playing mobile games. Songs of Bruno Mars are awesome for me. Chicken is delicious and I love it. And all I can say is I'm a good person.
-</p>
-<p>My expection on this subject is to gain more knowledge about system intergration and architecture </p>
-<p>I want to learn the basic foundation of this subject</p>
-<p>I want be familiar with deploying website and gain more understanding about it</p>
+        <p>I'm Ezikiel Manese. I'm a fellow student who enjoys playing mobile games. Songs of Bruno Mars are awesome for me. Chicken is delicious and I love it. And all I can say is I'm a good person.</p>
+<ul>
+<li>My expections on this subject are: Widen my knowledge about the topics being taught.</li>
+<li>Expect to have a real-life examples about the activity.</li>
+<li>Expect to have an interesting topics and overcome the challenges.</li>
+</ul>
+    
      <p>10 Things That Require Zero Talent</p>
         <ul>
         <li>1. Being on Time</li>
